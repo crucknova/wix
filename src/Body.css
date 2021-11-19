@@ -1,0 +1,36 @@
+.font_0{
+    textAlign : center;
+    fontSize:40px;
+}
+
+.span{
+    letter-spacing:0.1em
+}
+
+._1Q9if, ._2Hij5 {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    text-align: start;
+    pointer-events: none;
+    min-height: var(--min-height);
+}
+#comp-iix9eb99 {
+    height: auto;
+}
+
+.body{
+    margin:100px 856px;
+    display: flex;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 0.1rem;
+
+}
+#a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
